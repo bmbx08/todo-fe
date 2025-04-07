@@ -12,6 +12,12 @@ body{
   justify-content: space-between;
   align-items: center;
 }
+
+.item-complete{
+  background-color: gainsboro;
+  color:white;
+}
+
 .todo-content{
   padding:1em
 }
